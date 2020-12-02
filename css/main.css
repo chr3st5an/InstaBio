@@ -1,0 +1,46 @@
+body {
+    background: url("../img/discord.png");
+    background-size: cover;
+}
+
+img {
+    border-radius: 50%;
+    height: 200px;
+}
+
+#body-group {
+    color: white;
+    background-color:#7289da;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-left: 30%;
+    margin-right: 30%;
+    border-radius: 25px;
+}
+
+#card {
+    background-color:#2b2b2b;
+    padding: 10px 0px 10px 0px;
+    margin-top: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 25px;
+}
+
+#description {
+    margin-top: 7px;
+}
+
+#links {
+    background-color:#181818;
+    padding: 10px;
+    margin: 5% 10% 5% 10%;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+#link {
+    padding: 2%;
+}
+
