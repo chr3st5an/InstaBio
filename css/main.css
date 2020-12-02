@@ -9,6 +9,7 @@ img {
 
 #body-group {
     color: white;
+    position: absolute;
     background-color:#7289da;
     padding-top: 2%;
     padding-bottom: 2%;
